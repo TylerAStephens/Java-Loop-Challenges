@@ -1,6 +1,7 @@
 # Java-Loop-Challenges
 
-Java challenges practicing for and while loops.
+### Java challenges practicing for and while loops.
+
 
 Palindrome Checker
 
