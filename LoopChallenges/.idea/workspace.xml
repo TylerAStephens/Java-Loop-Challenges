@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faf739e4-5766-4351-924d-706b3405321e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaChallengesTwo/JavaChallengesTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverloading/MethodOverloading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-14-2017-Orlando-Class-Repository-FSF-FT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1-Psychic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/.xcodesamplecode.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/project.xcworkspace/xcshareddata/Destini.xcscmblueprint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/project.xcworkspace/xcuserdata/tyler.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/xcuserdata/a1.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/xcuserdata/a1.xcuserdatad/xcschemes/Destini.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/xcuserdata/a1.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/xcuserdata/angelayu.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/xcuserdata/philippmuellauer.xcuserdatad/xcschemes/Destini.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/xcuserdata/philippmuellauer.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini.xcodeproj/xcuserdata/tyler.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Icon-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Icon-40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Icon-60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Icon-60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Icon-Small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/AppIcon.appiconset/Icon-Small@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/DSC100371304.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/DSC100371304.imageset/DSC100371304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/LABLOGONewRound2.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/LABLOGONewRound2.imageset/LABLOGONewRound2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/Taco-Bell-Beefy-Crunch-Burrito.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/Taco-Bell-Beefy-Crunch-Burrito.imageset/Taco-Bell-Beefy-Crunch-Burrito.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/background.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/background.imageset/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/gordita.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/gordita.imageset/gordita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/labBackground.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/labBackground.imageset/background.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/spaceBackground.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/spaceBackground.imageset/spaceBackground.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/spaceBackground2.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Images.xcassets/spaceBackground2.imageset/spaceBackground2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/Destini/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Destini-Story-App/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/Basic-Portfolio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/Basic-Portfolio 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/Bootstrap-Portfolio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/Bootstrap-Portfolio 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/Responsive-Portfolio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 4/PS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 4/aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 4/bs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 4/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Day 5/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Screen Shot 2017-08-16 at 1.36.35 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/The_Ub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved 2/floats.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved 2/floats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_1/html-bio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_2/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_2/html-bio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_3/assets/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_3/html-bio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_4/HTML/html-bio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_WorkingExample/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/RelativePaths_WorkingExample/html-bio-with-css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/Unsolved/Unsolved (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/day 3/positioning.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/day 3/positioning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/day 3/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/day 3/reset.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/first day/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/first day/code/first_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/first day/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/first day/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week One/first day/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/ar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/array-logs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/arrays.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/bandz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/conditional-demo-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/js-dissect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/lower.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/pizza-variables2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/prompt-sushi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D1/steak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/car.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/first.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/hard-loop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/hard.loop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/loop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/loopy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/rps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../In class/Week Two/W2D2/zooloop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Psychic-Game/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Psychic-Game/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Psychic-Game/assets/css/style.cdd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Psychic-Game/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Psychic-Game/assets/javascript/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Psychic-Game/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2017-08-21 at 8.07.15 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/port.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tattoos/27b4b12a921b1507aafdaf945084c76c--the-shining-tattoo-jack-tattoo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tattoos/38f30067320e3104be8a860a6d8c58f2--movie-tattoos-art-tattoos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tattoos/ce99db491624f7c1c032e25ca4d5cf08--horror-tattoos-horror-tattoo-flash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tattoos/d296e3b2904be6f95dc1b01a235777b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tattoos/tumblr_ot5a0bXrTP1vnvl33o1_500.jpg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="32" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/FirstAndLastDigitSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/EvenDigitSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/SharedDigit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/LastDigitChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/GreatestCommonDivisor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/AllFactors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/PerfectNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/palindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/EvenDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/FirstAndLastDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/SharedDigit.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/LastDigitChecker.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/GreatestCommonDivisor.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/AllFactors.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/PerfectNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/TylerStephens/NumberToWords.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="176" />
+    <option name="y" value="152" />
+    <option name="width" value="1035" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LoopChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoopChallenges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoopChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoopChallenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoopChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoopChallenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TylerStephens" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545731247581" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NumberToWords">
+    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TylerStephens.AllFactors" />
+      <module name="LoopChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TylerStephens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TylerStephens.GreatestCommonDivisor" />
+      <module name="LoopChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TylerStephens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TylerStephens.LastDigitChecker" />
+      <module name="LoopChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TylerStephens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TylerStephens.NumberToWords" />
+      <module name="LoopChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TylerStephens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TylerStephens.PerfectNumber" />
+      <module name="LoopChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TylerStephens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AllFactors" />
+      <item itemvalue="Application.GreatestCommonDivisor" />
+      <item itemvalue="Application.LastDigitChecker" />
+      <item itemvalue="Application.NumberToWords" />
+      <item itemvalue="Application.PerfectNumber" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberToWords" />
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.AllFactors" />
+        <item itemvalue="Application.GreatestCommonDivisor" />
+        <item itemvalue="Application.LastDigitChecker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faf739e4-5766-4351-924d-706b3405321e" name="Default Changelist" comment="" />
+      <created>1545709918536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545709918536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="253" y="63" width="1035" height="772" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18429004" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Messages" order="8" weight="0.3242699" />
+      <window_info anchor="right" id="Run" order="9" weight="0.2467271" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/SharedDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/LastDigitChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/AllFactors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/EvenDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/FirstAndLastDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/GreatestCommonDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/NumberToWords.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/TylerStephens/PerfectNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
